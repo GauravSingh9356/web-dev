@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+
+
+
+<html>
+  <head>
+    
+  <title>
+  Developers HUB
+  </title>
+  
+
+
+
+
+ 
+
+</script>
+    <style>
+      #header{
+        width:935.2px;
+        height:225px;
+      }
+      #header-img{
+        
+      }
+	  div{
+	  position:relative;
+	  left:200px;
+	  width:550px;
+	  
+	  }
+	  div2{
+	  text-align:center;
+    position:relative;
+    top:5px;
+	  }
+	  #button{
+	  background-color:yellow;
+	  font-weight:bold;
+	  font-size:20px;
+    width:190px;
+    height:45px;
+    padding:5px 0 0 0;
+    
+    top:0px;
+    text-align: center;
+	  }
+	  body{
+	  background-color:#E8E8E8;
+
+	  }
+	  div3{
+      
+	  position:relative;
+	  top:125px;
+    right:1000px;
+    left:-135px;
+    
+    width:fit-content;
+    height:fit-content;
+  }
+  #form{
+    text-align:center;
+  }
+  .image{
+    position: relative;
+    left:450px;
+  }
+  .m{
+    font-weight: bold;
+    font-size: 24px;
+    position: relative;
+    left: 550px;
+    top:-75px;
+    font-family:  sans-serif;
+    margin:0 auto;
+  }
+  .span{
+    font-size:16px;
+    font-family: sans-serif;
+    color:#000000;
+    filter:contrast(1%);
+    width:762px;
+    height:38px;
+    display: flex;
+    flex-direction: row;
+    margin-top:4px;
+    
+  }
+  #email{
+    width:300px;
+    height:32px;
+  }
+  h2{
+    font-family:sans-serif;
+  }
+  #img1{
+    float:left;
+  }
+  .fea{
+    position: relative;
+    left:500px;
+    font-family: sans-serif;
+    color:#000000;
+    filter:contrast(30%);
+    margin-right:89px;
+    font-size:20px;
+    margin-top: 8px;
+  }
+  #dev{
+    font-size:25px;
+    font-family:sans-serif;
+    position: relative;
+    left:50px;
+    font-weight:bold;
+  }
+  div b{
+    width:1200px;
+    margin-right:25px;
+    margin-left:25px;
+  }
+  a{
+    text-decoration:none;
+     color:#000000;
+    filter:contrast(30%);
+  }
+  .last{
+    position: relative;
+    top:475px;
+    left:1200px;
+    color:#000000;
+    float:left;
+    margin-left:20px;
+  }
+  #you{
+    position: relative;
+    left:125px;
+  }
+  .l{
+    margin-left:12px;
+  }
+  #txt{
+    margin-left:120px;
+  }
+    </style>
+  
+  
+  
+  
+  </head>
+  
+  <body>
+  
+  <divb>
+  <div >
+  <header id="header" id="header-img"><img  id="img1"src="logo.jpg" height="175px"
+  width="300px";><span class="fea"><a href="#">Features</a></span><span class="fea"><a href="#">How It works</a></span><span class="fea"><a href="">Pricing</a></span></header>
+  <span id="dev">Developers HUB</span>
+  </div>
+  <div2>
+  <h2>Handcrafted, hand-made masterpieces</h2></div2>
+  <form id="form">
+  <input type="email" placeholder="xyz@gmail.com" required id="email"><br><br>
+  <button id="button">Get Started</button>
+  </form>
+  <div3>
+  <img src="cap.jpg" class="image"><p class="m">Premium Material<br><span class="span">Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase</span></p>
+
+  <img src="cap3.jpg" class="image"><p class="m"> Fast Shipping<br><span class="span">We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</span></p>
+  <img src="cap4.jpg" class="image"><p class="m">Quality Assurance<br><span class="span">For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument.</span></p>
+
+</div3>
+</divb>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<iframe id="you" width="754" height="428" src="https://www.youtube.com/embed/2_lswM1S264" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="last">&copy 2019 Developer HUB Privacy <span class="l" >Contact us</span></p>
+  </body>
+</html>
+    
